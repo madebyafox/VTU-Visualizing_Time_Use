@@ -1,0 +1,37 @@
+SPACE,Data,,
+,3 raters and 25 cases,,
+,1 variable with 75 decisions in total,,
+,no missing data,,
+,,,
+,"1: pattern,horizontal,vertical,circular,peripher,location",,
+,Fleiss,Krippendorff,Pairwise avg.
+,A_obs = 0.92,D_obs = 0.08,% agr = 92
+,A_exp = 0.365,D_exp = 0.643,Kappa = 0.873
+,Kappa = 0.874,Alpha = 0.876,
+,,,
+,,,
+FORM,Data,,
+,3 raters and 25 cases,,
+,1 variable with 75 decisions in total,,
+,no missing data,,
+,,,
+,"1: T,N,D,A,C",,
+,Fleiss,Krippendorff,Pairwise avg.
+,A_obs = 1,D_obs = 0,% agr = 100
+,A_exp = 0.155,D_exp = 0.856,Kappa = 1
+,Kappa = 1,Alpha = 1,
+,,,
+,,,
+MECH,Data,,
+,3 raters and 25 cases,,
+,1 variable with 75 decisions in total,,
+,no missing data,,
+,,,
+,"1: acitivites,duration,timing,sequence,frequency",,
+,Fleiss,Krippendorff,Pairwise avg.
+,A_obs = 0.973,D_obs = 0.027,% agr = 97.3
+,A_exp = 0.052,D_exp = 0.961,Kappa = 0.972
+,Kappa = 0.972,Alpha = 0.972,
+,,,
+,,,
+,"Geertzen, J. (2012). Inter-Rater Agreement with multiple raters and variables. Retrieved June 5, 2014, from https://mlnl.net/jg/software/ira/",,
