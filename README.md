@@ -1,5 +1,5 @@
 # VTU-Visualizing_Time_Use
-**Amy Rae Fox (2014-2016) MEdS Research Project** 
+**Amy Rae Fox (2014-2016) MSEd Research Project** 
 
 ## *Exploring Representations of Student Time-Use*. 
 *Empirical research project conducted at UPMF France in Spring 2014 under supervision of Dr. Erica de Vries.  Deliverables in include: (1) project paper (including conceptual framework, literature review and description of empirical study, (2) materials, data, analysis for empirical research project, (3) manuscript accepted as long paper at DIAGRAMS 2016*
