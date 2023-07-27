@@ -5,7 +5,7 @@
 *Empirical research project conducted at UPMF France in Spring 2014 under supervision of Dr. Erica de Vries.  Deliverables in include: (1) project paper (including conceptual framework, literature review and description of empirical study, (2) materials, data, analysis for empirical research project, (3) manuscripts and reviews for submissions to COGSCI 2015, AERA 2016 (4) manuscript accepted as archival long paper at DIAGRAMS 2016, (4) presentation slides for DIAGRAMS 2016.  This work is especially meaningful as it was my first empirical research study, and resulted in my first scholarly publication.*
 
 ## CITATION
-Fox, A. R., de Vries, E., Lima, L., & Loker, S. (2016). Exploring Representations of Student Time-Use. *In* Lecture Notes in Computer Science: Diagrammatic Reasoning and Inference. Proceedings of DIAGRAMS 2016, Philadelphia, PA. 
+**Fox, A. R.**, de Vries, E., Lima, L., & Loker, S. (2016). Exploring Representations of Student Time-Use. *In* Lecture Notes in Computer Science: Diagrammatic Reasoning and Inference. Proceedings of DIAGRAMS 2016, Philadelphia, PA. 
 
 ## ABSTRACT (Diagrams Paper)
 How does one visually represent the use of time? We explored students’ use of graphical metaphors by asking undergraduates at a public French university to generate representations of their personal time- use including: activities, sequence, duration, timing, and frequency. The resulting use of space and form was analyzed by way of an iteratively developed coding scheme. We discuss how the analyses of the sponta- neous productions support previous research on spatial representations of time, and the implications for the design of time management tools for students.
