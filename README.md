@@ -2,7 +2,7 @@
 **Amy Rae Fox (2014-2016) MSEd Research Project** 
 
 ## *Exploring Representations of Student Time-Use*. 
-*Empirical research project conducted at UPMF France in Spring 2014 under supervision of Dr. Erica de Vries.  Deliverables in include: (1) project paper (including conceptual framework, literature review and description of empirical study, (2) materials, data, analysis for empirical research project, (3) manuscript accepted as long paper at DIAGRAMS 2016*
+*Empirical research project conducted at UPMF France in Spring 2014 under supervision of Dr. Erica de Vries.  Deliverables in include: (1) project paper (including conceptual framework, literature review and description of empirical study, (2) materials, data, analysis for empirical research project, (3) manuscripts and reviews for submissions to COGSCI 2015, AERA 2016 (4) manuscript accepted as archival long paper at DIAGRAMS 2016, (4) presentation slides for DIAGRAMS 2016*
 
 ## CITATION
 Fox, A. R., de Vries, E., Lima, L., & Loker, S. (2016). Exploring Representations of Student Time-Use. *In* Lecture Notes in Computer Science: Diagrammatic Reasoning and Inference. Proceedings of DIAGRAMS 2016, Philadelphia, PA. 
